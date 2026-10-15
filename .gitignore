@@ -1,0 +1,13 @@
+# 隐私边界:以下内容永不入仓
+logs/
+photos/
+profile.md
+weekly/
+*.docx
+*.pptx
+*.pdf
+
+# 依赖与系统文件
+node_modules/
+.DS_Store
+Thumbs.db
